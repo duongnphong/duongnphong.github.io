@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Nam Phong Duong",
-    "label": "PhD Candidate at Kyoto Institute of Technology"
+    "label": "Doctoral Student at Kyoto Institute of Technology"
   },
   "work": [
     {
       "name": "Image Processing Laboratory, Kyoto Institute of Technology",
-      "position": "PhD Researcher",
+      "position": "Graduate Researcher",
       "url": "https://www.is.kit.ac.jp/eng/pdf/labo-ip.pdf",
       "startDate": "2023-04-01",
       "endDate": "Present",
-      "summary": "Exploring computer-aided-diagnosis ML-based evaluation methods for breast reconstruction outcomes."
+      "summary": "Exploring computer-aided-diagnosis ML-based evaluation methods for body part reconstruction outcomes."
     },
     {
       "name": "SUGAR Network for Design Innovation",
@@ -50,7 +50,7 @@
       "location": "Japan",
       "url": "https://www.kyotostartupschool.org/program-2019",
       "area": "Kyoto Startup Summer School",
-      "studyType": "Short-Term Program",
+      "studyType": "Non-Degree Entrepreneurship Program",
       "startDate": "2019-08",
       "endDate": "2019-09"
     }
@@ -59,9 +59,9 @@
     {
       "title": "The Institution Best Student",
       "date": "2022-07-01",
-      "awarder": "Institution of Mechanical Engineers",
+      "awarder": "Lancaster University and Institution of Mechanical Engineers (IMechE)",
       "url": "https://www.imeche.org/careers-education/scholarships-and-awards/university-awards/best-student-certificate/",
-      "summary": "Awarded for highest academic performance in Mechatronic Engineering in the 2022 graduating cohort at Lancaster University."
+      "summary": "Awarded for highest academic performance in Mechatronic Engineering in the 2022 graduating cohort."
     }
   ],
   // "certificates": [
@@ -123,13 +123,8 @@
       "icon": ""
     },
     {
-      "language": "Vietnamese",
-      "fluency": "Native",
-      "icon": ""
-    },
-    {
       "language": "Japanese",
-      "fluency": "Limited",
+      "fluency": "Conversational",
       "icon": ""
     }
   ]

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started this new personal website today.
+New personal website was launched.

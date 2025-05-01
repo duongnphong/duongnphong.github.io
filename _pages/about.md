@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate at <a href='https://www.kit.ac.jp/'>Kyoto Institute of Technology</a>.
+subtitle: Doctoral Student at <a href='https://www.kit.ac.jp/'>Kyoto Institute of Technology</a>.
 
 profile:
   align: left
@@ -25,7 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a student at [Graduate School of Science and Technology](https://www.kit.ac.jp/en/academic-programs/graduate-school/), Kyoto Institute of Technology. 
+Hello, World! 🌏
+
+My name is **Phong** - Student at [Graduate School of Science and Technology](https://www.kit.ac.jp/en/academic-programs/graduate-school/), Kyoto Institute of Technology. 
 
 My research focuses on medical image processing. Specifically, I am working on `transforming` and `extracting` meaningful information from `3D mesh` and `point cloud data` to make it compatible with machine learning models. The ultimate goal of my work is to enhance diagnostic accuracy and optimize treatment strategies in the medical field.
 
