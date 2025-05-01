@@ -30,19 +30,30 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-my-journey-with-ai",
+        },{id: "post-i-survived-me310-sugar",
+      
+        title: "I survived ME310/SUGAR",
+      
+      description: "the most memorable experience in 20s (probably)",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/me310/";
+        
+      },
+    },{id: "post-my-journey-with-ai",
       
         title: "My journey with AI",
       
-      description: "The story of how I, a Mechatronics Engineering graduate, got started with AI.",
+      description: "How I got started with AI",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2023/images/";
         
       },
-    },{id: "news-i-started-this-new-personal-website-today",
-          title: 'I started this new personal website today.',
+    },{id: "news-new-personal-website-was-launched",
+          title: 'New personal website was launched.',
           description: "",
           section: "News",},{
         id: 'social-email',
