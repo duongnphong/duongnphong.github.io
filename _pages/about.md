@@ -27,7 +27,11 @@ latest_posts:
 
 Hello, World! 🌏
 
-My name is **Phong** - Student at [Graduate School of Science and Technology](https://www.kit.ac.jp/en/academic-programs/graduate-school/), Kyoto Institute of Technology. 
+My name is **Phong**.
+
+In 2022, I graduated from [Lacanster University](https://www.lancaster.ac.uk/engineering/) with a Master’s degree, achieving the highest academic standing in my cohort.
+
+I am now continuing my academic journey as a graduate student at [Graduate School of Science and Technology](https://www.kit.ac.jp/en/academic-programs/graduate-school/), Kyoto Institute of Technology. 
 
 My research focuses on medical image processing. Specifically, I am working on `transforming` and `extracting` meaningful information from `3D mesh` and `point cloud data` to make it compatible with machine learning models. The ultimate goal of my work is to enhance diagnostic accuracy and optimize treatment strategies in the medical field.
 
