@@ -13,17 +13,20 @@
       "summary": "Exploring computer-aided-diagnosis ML-based evaluation methods for body part reconstruction outcomes."
     },
     {
+      "name": "Kyoto Institute of Technology",
+      "position": "Teaching Assistant",
+      "url": "https://ssp.jst.go.jp/report/2024/k_vol053.html",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-01",
+      "summary": "Annually-held Sakura Science Exchange Program (JST) at Kyoto Institute of Technology for ASEAN students. Offering support and practical workshop instructions."
+    },
+    {
       "name": "SUGAR Network for Design Innovation",
       "position": "Product Innovation Researcher",
       "url": "https://www.me310kyoto.org/",
       "startDate": "2023-10-01",
       "endDate": "2024-06-01",
-      "summary": "A nine-month design thinking program at the Kyoto Institute of Technology dedicated to developing innovative products and services. Leading companies challenge teams of students from the best universities around the world with open-ended project briefs.",
-      "highlights": [
-        "Design Thinking",
-        "Rapid Prototype",
-        "Product Design"
-      ]
+      "summary": "A nine-month design thinking program at the Kyoto Institute of Technology dedicated to developing innovative products and services. Leading companies challenge teams of students from the best universities around the world with open-ended project briefs."
     }
   ],
   "education": [
@@ -54,117 +57,5 @@
       "startDate": "2019-08",
       "endDate": "2019-09"
     }
-  ],
-  "awards": [
-    {
-      "title": "The Institution Best Student",
-      "date": "2022-07-01",
-      "awarder": "Lancaster University and Institution of Mechanical Engineers (IMechE)",
-      "url": "https://www.imeche.org/careers-education/scholarships-and-awards/university-awards/best-student-certificate/",
-      "summary": "Awarded for highest academic performance in Mechatronic Engineering in the 2022 graduating cohort."
-    }
-  ],
-  // "certificates": [
-  //   {
-  //     "name": "Machine Learning",
-  //     "date": "2024-01",
-  //     "issuer": "Coursera",
-  //     "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/H582RQ58K372",
-  //     "icon": "fa-solid fa-check"
-  //   },
-  //   {
-  //     "name": "Intro to AI with Python",
-  //     "date": "2023-09",
-  //     "issuer": "CS50",
-  //     "url": "https://certificates.cs50.io/b73ca741-f5eb-44b3-bf15-b155ac847ebd.pdf",
-  //     "icon": "fa-solid fa-check"
-  //   },
-  //   {
-  //     "name": "Intro to Computer Science",
-  //     "date": "2022-10",
-  //     "issuer": "CS50",
-  //     "url": "https://certificates.cs50.io/f6700077-c570-49a6-80b5-526a565cf1da.pdf",
-  //     "icon": "fa-solid fa-check"
-  //   }
-  // ],
-  // "publications": [
-  //   {
-  //     "name": "A New Integrated Medical-Image Processing System with High Clinical Applicability for Effective Dataset Preparation in ML-Based Diagnosis",
-  //     "publisher": "Springer",
-  //     "releaseDate": "2023-10-31",
-  //     "url": "https://doi.org/10.1007/978-981-99-7666-9_4"
-  //   },
-  //   {
-  //     "name": "Integrated Dataset-Preparation System for ML-Based Medical Image Diagnosis with High Clinical Applicability in Various Modalities and Diagnoses",
-  //     "publisher": "Springer",
-  //     "releaseDate": "2024-06-26",
-  //     "url": "https://doi.org/10.1007/s42979-024-03025-7"
-  //   }
-  // ],
-  // "skills": [
-  //   {
-  //     "name": "Physics",
-  //     "level": "Master",
-  //     "icon": "fa-solid fa-hashtag",
-  //     "keywords": [
-  //       "Quantum Mechanics",
-  //       "Quantum Computing",
-  //       "Quantum Information",
-  //       "Quantum Cryptography",
-  //       "Quantum Communication",
-  //       "Quantum Teleportation"
-  //     ]
-  //   }
-  // ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    },
-    {
-      "language": "Japanese",
-      "fluency": "Conversational",
-      "icon": ""
-    }
   ]
-  // "interests": [
-  //   {
-  //     "name": "Physics",
-  //     "icon": "fa-solid fa-tag",
-  //     "keywords": [
-  //       "Quantum Mechanics",
-  //       "Quantum Computing",
-  //       "Quantum Information",
-  //       "Quantum Cryptography",
-  //       "Quantum Communication",
-  //       "Quantum Teleportation"
-  //     ]
-  //   }
-  // ],
-  // "references": [
-  //   {
-  //     "name": "Professor John Doe",
-  //     "icon": "fa-solid fa-laptop",
-  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-  //   },
-  //   {
-  //     "name": "Professor John Doe",
-  //     "icon": "fa-solid fa-thumbtack",
-  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-  //   }
-  // ],
-  // "projects": [
-  //   {
-  //     "name": "Quantum Computing",
-  //     "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-  //     "highlights": [
-  //       "Quantum Teleportation",
-  //       "Quantum Cryptography"
-  //     ],
-  //     "startDate": "2018-01-01",
-  //     "endDate": "2018-01-01",
-  //     "url": "https://example.com"
-  //   }
-  // ]
 }
