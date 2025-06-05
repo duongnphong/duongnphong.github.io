@@ -250,7 +250,7 @@ ul.task-list input[type="checkbox"] {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.95;
+  opacity: 1;
 }
 
 .navbar .dropdown-menu {
@@ -558,6 +558,10 @@ footer.sticky-bottom {
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: 600;
+    // add shadow
+    text-shadow: 2px 2px 4px rgba(117, 118, 179, 0.6);
   }
 }
 
