@@ -45,7 +45,7 @@ ninja.data = [{
       
         title: "My journey with AI",
       
-      description: "How I got started with AI",
+      description: "how I got started with AI",
       section: "Posts",
       handler: () => {
         
